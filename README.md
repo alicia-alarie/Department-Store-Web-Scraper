@@ -1,1 +1,0 @@
-# Department-Store-Web-Scraper
